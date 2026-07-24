@@ -33,7 +33,7 @@ export function About() {
               as="p"
               className="text-lg leading-relaxed text-muted-foreground"
             >
-              I&aposm a Full-Stack Web Developer with a strong foundation in modern
+              I am a Full-Stack Web Developer with a strong foundation in modern
               JavaScript frameworks and secure backend architecture. I
               specialize in turning complex problems into clean, scalable
               solutions using Next.js, React, and Supabase.
@@ -45,7 +45,7 @@ export function About() {
             >
               From real-time dashboards to secure authentication systems, I
               bring ideas to life with a focus on performance, accessibility,
-              and developer experience. I&aposm currently pursuing my B.Tech in
+              and developer experience. I am currently pursuing my B.Tech in
               Computer Science and actively seeking freelance opportunities to
               build impactful products.
             </TextReveal>
